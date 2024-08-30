@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-tk5sq",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-tk5sq.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-tk5sq/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-tk5sq#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-tk5sq": "^1.0.0"
+    }
+}
